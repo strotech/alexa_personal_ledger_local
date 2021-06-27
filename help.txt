@@ -1,0 +1,12 @@
+installation and configuration and sample dev.to post
+https://dev.to/_mikigraf/localstack-cdk-local-aws-development-58ff
+
+docs
+https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html
+
+sample1
+https://github.com/mikigraf/CDK-with-Localstack
+
+sample2
+https://www.codeproject.com/Articles/5269904/Deploy-a-Typescript-Lambda-Function-with-AWS-CDK-a
+
